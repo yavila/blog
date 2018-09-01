@@ -1,12 +1,12 @@
 +++
 author = "Yamilex Avila-Stanley"
-categories = ["drawing", "drawabox"]
-tags = ["art", "drawing", "learning"]
+categories = ["drawing"]
+tags = ["art", "drawing", "learning", "drawabox"]
 date = {{ .Date }}
 description = ""
 featured = ""
 featuredalt = ""
-featuredpath = ""
+featuredpath = "date"
 linktitle = ""
 title = ""
 type = "post"
