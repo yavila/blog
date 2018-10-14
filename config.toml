@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "Place where I post about my experience, struggles, and hopefully progress with drawing. <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "Hi! I'm Yami, who has dreams to someday draw and do <i> something </i> creative. I was not what you would call an artsy person as a kid, but that's some hogwash, and I'm going to change that. Other than that, I'm just a software engineer who likes to read Fantasy (Stormlight Archive anyone?) novels and watch Steven Universe."
+  about     = "Hi! I'm Yami, who has dreams to someday draw and do <i> something </i> creative. I was not what you would call an artsy person as a kid, but that's some hogwash, and I'm going to change that. Other than that, I'm just a software engineer who likes to read Fantasy novels (Stormlight Archive anyone?) and watch Steven Universe."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
